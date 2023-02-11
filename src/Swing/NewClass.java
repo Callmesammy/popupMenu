@@ -8,6 +8,6 @@ package Swing;
  *
  * @author HP
  */
-public class glassPane {
+public class NewClass {
     
 }
