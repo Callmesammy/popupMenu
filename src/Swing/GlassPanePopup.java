@@ -6,10 +6,8 @@ import java.awt.Component;
 import java.awt.event.MouseAdapter;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-import java.security.cert.PKIXRevocationChecker.Option;
 import javax.swing.JFrame;
 import javax.swing.JLayeredPane;
-import javax.swing.Popup;
 import javax.swing.SwingUtilities;
 
 /**
